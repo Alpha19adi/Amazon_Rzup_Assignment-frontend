@@ -18,7 +18,7 @@ function SignIn() {
       navigate('/');
     } catch (error) {
       console.error('Sign in error:', error);
-      setError(error.response?.data?.message || 'An error occurred during sign in');
+      setError(error.response?.data?.message || 'User Created Successfully');
     }
   };
 
