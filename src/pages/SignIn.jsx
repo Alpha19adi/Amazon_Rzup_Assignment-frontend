@@ -15,7 +15,6 @@ function SignIn() {
     e.preventDefault();
     try {
       const response = await signIn({ email, password });
-      login(response.data.user, response.data.token);
       navigate('/');
     } catch (error) {
       console.error('Sign in error:', error);
