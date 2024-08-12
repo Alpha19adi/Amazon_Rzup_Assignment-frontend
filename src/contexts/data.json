@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "image": "https://picsum.photos/400",
+      "price": 79.99
+    },
+    {
+      "name": "Smartwatch",
+      "description": "Stylish smartwatch with health tracking features, GPS, and customizable watch faces.",
+      "image": "https://picsum.photos/400",
+      "price": 199.99
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with deep bass, water resistance, and 10-hour battery life.",
+      "image": "https://picsum.photos/400",
+      "price": 49.99
+    },
+    {
+      "name": "Laptop Stand",
+      "description": "Ergonomic laptop stand with adjustable height and cooling fan for better airflow.",
+      "image": "https://picsum.photos/400",
+      "price": 29.99
+    },
+    {
+      "name": "4K Monitor",
+      "description": "Ultra HD 4K monitor with stunning clarity, vibrant colors, and multiple connectivity options.",
+      "image": "https://picsum.photos/400",
+      "price": 349.99
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "description": "Tactile mechanical keyboard with RGB lighting and customizable keycaps.",
+      "image": "https://picsum.photos/400",
+      "price": 89.99
+    },
+    {
+      "name": "Gaming Mouse",
+      "description": "Precision gaming mouse with adjustable DPI, programmable buttons, and RGB lighting.",
+      "image": "https://picsum.photos/400",
+      "price": 59.99
+    },
+    {
+      "name": "External Hard Drive",
+      "description": "Portable external hard drive with 2TB storage capacity and USB 3.0 connectivity.",
+      "image": "https://picsum.photos/400",
+      "price": 99.99
+    },
+    {
+      "name": "Smartphone Gimbal",
+      "description": "3-axis smartphone gimbal for smooth video recording with advanced stabilization features.",
+      "image": "https://picsum.photos/400",
+      "price": 119.99
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "image": "https://picsum.photos/400",
+      "price": 24.99
+    }
+  ]
+  
